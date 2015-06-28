@@ -23,14 +23,19 @@ Dublin has the Irish Sea to the right with the River Liffey crossing the city ri
     * [Scotch Bonnet](http://www.scotchbonnet.ie/) - Nice burgers, but try the Ribs
   * [Malahide Castle & Gardens](http://www.malahidecastleandgardens.ie/)
     * [Avoca store](http://www.avoca.com/home/explore/stores/?id=14)
-* [Howth](https://en.wikipedia.org/wiki/Howth) is a tiny town in the Howth Head Peninsula. It's a fishing town where you can find a decent amount of fish restaurants.
-  * [Ireland's Eye](https://en.wikipedia.org/wiki/Ireland's_Eye) - Accessible via [boat](http://www.islandferries.net/), heavily depending on the weather.
-  * [Ye Olde Hurdy Gurdy Museum Of Vintage Radio](https://hurdygurdyradiomuseum.wordpress.com/) Super tiny but awesome vintage radio museum built inside a [Martello Tower](https://en.wikipedia.org/wiki/Martello_tower)
-  * [Walking trails](http://www.irishtrails.ie/trail/Howth---Cliff-Path-loop/107/) go around the peninsula.
-  * Restaurants:
-    * [Deep](http://www.deep.ie/) - LOBSTER!!!
-    * [Beshoffs](http://www.beshoffs.ie/)
-    * [Octopussys](http://octopussys.ie/)
+
+#### Howth
+![](https://c2.staticflickr.com/4/3702/9278657168_117590dbe7_c.jpg)
+
+[Howth](https://en.wikipedia.org/wiki/Howth) is a tiny town in the Howth Head Peninsula. It's a fishing town where you can find a decent amount of fish restaurants.
+
+* [Ireland's Eye](https://en.wikipedia.org/wiki/Ireland's_Eye) - Accessible via [boat](http://www.islandferries.net/), heavily depending on the weather.
+* [Ye Olde Hurdy Gurdy Museum Of Vintage Radio](https://hurdygurdyradiomuseum.wordpress.com/) Super tiny but awesome vintage radio museum built inside a [Martello Tower](https://en.wikipedia.org/wiki/Martello_tower)
+* [Walking trails](http://www.irishtrails.ie/trail/Howth---Cliff-Path-loop/107/) go around the peninsula.
+* Restaurants:
+  * [Deep](http://www.deep.ie/) - LOBSTER!!!
+  * [Beshoffs](http://www.beshoffs.ie/)
+  * [Octopussys](http://octopussys.ie/)
 
 ### City Center
 
@@ -38,7 +43,7 @@ Dublin has the Irish Sea to the right with the River Liffey crossing the city ri
 
 * [Grafton Street](https://en.wikipedia.org/wiki/Grafton_Street)
 * [MakeShop](https://dublin.sciencegallery.com/makeshop)
-* [St. Stephens Green Shopping](http://www.stephensgreen.com/) ![](https://c2.staticflickr.com/8/7636/16894206266_7e3652b308_b.jpg)
+* [St. Stephens Green Shopping](http://www.stephensgreen.com/)
 * [George's Arcade](http://www.georgesstreetarcade.ie/)
 * [Jarvis Street Shopping](https://en.wikipedia.org/wiki/Jervis_Shopping_Centre)
 * [R.A.G.E Store](http://store.therage.ie/) - vintage gaming consoles and games
@@ -58,7 +63,7 @@ Dublin has the Irish Sea to the right with the River Liffey crossing the city ri
 * [National Gallery](http://www.nationalgallery.ie/)
 * [Natural History Museum](http://www.museum.ie/en/intro/natural-history.aspx)
 * [National Library](http://www.nli.ie/)
-* [Dublin Castle](http://www.dublincastle.ie/) ![](https://c2.staticflickr.com/8/7712/17784333752_c8dacd81dc_k.jpg)
+* [Dublin Castle](http://www.dublincastle.ie/) 
 * [Trinity College](http://www.tcd.ie)
     * [Long Room](http://www.tcd.ie/Library/bookofkells/old-library/)
     * [Book of Kells](http://www.tcd.ie/Library/bookofkells/)
@@ -93,7 +98,12 @@ Dublin has the Irish Sea to the right with the River Liffey crossing the city ri
     * [Nando's](http://www.nandos.co.uk/restaurant/dun-laoghaire-ireland)
 * [Dalkey](https://en.wikipedia.org/wiki/Dalkey)
 * [Bray](http://www.bray.ie/) - Think rocky beaches :) - if you ever saw the movie [Frank](https://en.wikipedia.org/wiki/Frank_(film)) you'll recognize it
-*
+
+# Tours
+
+* [Wild Wicklow Tours](http://www.wildwicklow.ie/)
+* [Viking Splash Tours](http://vikingsplash.com/)
+* [Cliffs of Moher Tours](http://www.cliffsofmohertours.ie/)
 
 # Events
 
