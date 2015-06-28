@@ -38,7 +38,7 @@ Dublin has the Irish Sea to the right with the River Liffey crossing the city ri
 
 * [Grafton Street](https://en.wikipedia.org/wiki/Grafton_Street)
 * [MakeShop](https://dublin.sciencegallery.com/makeshop)
-* [St. Stephens Green Shopping](http://www.stephensgreen.com/)
+* [St. Stephens Green Shopping](http://www.stephensgreen.com/) ![](https://c2.staticflickr.com/8/7636/16894206266_7e3652b308_b.jpg)
 * [George's Arcade](http://www.georgesstreetarcade.ie/)
 * [Jarvis Street Shopping](https://en.wikipedia.org/wiki/Jervis_Shopping_Centre)
 * [R.A.G.E Store](http://store.therage.ie/) - vintage gaming consoles and games
@@ -58,7 +58,7 @@ Dublin has the Irish Sea to the right with the River Liffey crossing the city ri
 * [National Gallery](http://www.nationalgallery.ie/)
 * [Natural History Museum](http://www.museum.ie/en/intro/natural-history.aspx)
 * [National Library](http://www.nli.ie/)
-* [Dublin Castle](http://www.dublincastle.ie/)
+* [Dublin Castle](http://www.dublincastle.ie/) ![](https://c2.staticflickr.com/8/7712/17784333752_c8dacd81dc_k.jpg)
 * [Trinity College](http://www.tcd.ie)
     * [Long Room](http://www.tcd.ie/Library/bookofkells/old-library/)
     * [Book of Kells](http://www.tcd.ie/Library/bookofkells/)
